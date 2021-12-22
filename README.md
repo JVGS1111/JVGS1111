@@ -15,8 +15,7 @@
 
 
 <p align="justify">Meu nome é João, formado em <strong>Análise e Desenvolvimento de Sistemas</strong>, descobri que amo desenvolver front-end. As tecnologias que mais gosto são ReacJs e TypeScript.</p>
-<p>- - 📚 Atulamente estou estudando Next.Js</p>
-  #OpenToWork
+<p>- - 📚 Atulamente estou estudando React Native</p>
 
 <h2> 🛠 &nbsp;Tech Stack</h2>  
 <code><img height="32em" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
