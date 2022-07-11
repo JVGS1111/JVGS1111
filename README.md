@@ -1,7 +1,7 @@
 
 <h1>
   Hello,
-  <img src="https://user-images.githubusercontent.com/72321264/140408479-789f179a-5408-4e91-82db-f669bb95681e.gif" max-width="30px" ></img>
+  <img src="https://user-images.githubusercontent.com/72321264/140408479-789f179a-5408-4e91-82db-f669bb95681e.gif" height="30px" ></img>
    I'm Guerber (or João)!
 </h1>
 
