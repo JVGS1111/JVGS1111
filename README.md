@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm I'm Guerber (or João)!</h1>
 <h3 align="center">Meu nome é João, formado em Análise e Desenvolvimento de Sistemas, descobri que amo desenvolver front-end. As tecnologias que mais gosto são ReacJs e TypeScript.</h3>
 
-- 🌱 Estou aprendendo **Ionic + Angular**
+- 🌱 Estou aprendendo **NodeJs**
 
 - 💬 Converse comigo sobre **react, angular, react-native...**
 
